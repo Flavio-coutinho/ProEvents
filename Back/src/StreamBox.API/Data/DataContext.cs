@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using ProEventos.API.Models;
+using StreamBox.API.Models;
 
-namespace ProEventos.API.Data
+namespace StreamBox.API.Data
 {
     public class DataContext: DbContext
     {

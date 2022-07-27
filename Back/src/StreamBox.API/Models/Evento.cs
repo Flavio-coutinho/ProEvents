@@ -1,4 +1,4 @@
-namespace ProEventos.API.Models
+namespace StreamBox.API.Models
 {
     public class Evento
     {
